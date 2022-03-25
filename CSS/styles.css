@@ -1,0 +1,22 @@
+
+body {
+background-color: orange;
+}
+h1 {
+color: lime;
+}
+h2{
+  color: indigo;
+}
+h3 {
+color: blue;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dashed;
+  border-color: cyan;
+  hight: 0;
+  width: 100%;
+  border-width: 2px;
+}
